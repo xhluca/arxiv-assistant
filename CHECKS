@@ -1,0 +1,5 @@
+WAIT=5
+TIMEOUT=10
+ATTEMPTS=3
+# Uncomment the following line changing <app> to the dash app name to activate the check
+# /<app>/_dash-layout  Sample App

@@ -227,7 +227,7 @@ def update_recommendations(n_clicks, url):
             * Authors: {authors}
 
             """)
-    print(strings)
+    
     return strings
 
 

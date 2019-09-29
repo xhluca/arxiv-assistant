@@ -37,4 +37,6 @@
 
 
 ## References
-* Dataset: https://www.kaggle.com/neelshah18/arxivdataset
+* Arxiv Dataset: https://www.kaggle.com/neelshah18/arxivdataset
+* Used Dash to build the app: https://dash.plot.ly/
+* LDA Implementation: https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html

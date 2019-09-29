@@ -1,5 +1,7 @@
 # Arxiv Assistant
 
+![demo](assets/images/Demo.png)
+
 ## About this project
 *A simple webapp to help you navigate Arxiv.org*
 
@@ -14,6 +16,9 @@
   * Attention in LSTM: https://arxiv.org/abs/1409.0473
 
 ### Too many papers: Tell me the essential!
+
+![neurips](assets/images/NeuripsStats.PNG)
+![arxiv](assets/images/ArxivStats.PNG)
 
 * These days, too many papers are published
 * NeuRIPS 2019 will publish over 1400 papers

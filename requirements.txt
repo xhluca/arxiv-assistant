@@ -1,3 +1,9 @@
 dash==1.2.0
 plotly
 gunicorn
+scikit-learn
+numpy
+pandas
+scipy
+joblib
+plotly-express

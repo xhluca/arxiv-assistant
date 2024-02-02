@@ -1,4 +1,4 @@
-dash==1.2.0
+dash==2.15.0
 plotly
 gunicorn
 scikit-learn
